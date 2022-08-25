@@ -1,0 +1,111 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "first_name": "Edward",
+      "last_name": "Masih",
+      "email": "edward.masih",
+      "phone": "9993562067"
+    },
+    {
+      "first_name": "Edward",
+      "last_name": "Test",
+      "email": "edward.masih@ibm.com",
+      "phone": "7999717240",
+      "id": 2
+    },
+    {
+      "first_name": "Diksha",
+      "last_name": "@3mish",
+      "email": "1234",
+      "phone": "hnfk",
+      "id": 3
+    },
+    {
+      "first_name": "23145",
+      "last_name": "656rf",
+      "email": "56tf",
+      "phone": "ghj",
+      "id": 4
+    },
+    {
+      "first_name": "Alice",
+      "last_name": "Martin",
+      "email": "Alice00@gmail.com",
+      "phone": "1234567890",
+      "id": 5
+    }
+  ],
+  "userLogins": [
+    {
+      "email": "edward.masih@ibm.com",
+      "loginTime": "2022-08-12T10:47:44.041Z",
+      "id": 1
+    },
+    {
+      "email": "test",
+      "loginTime": "2022-08-12T12:23:29.229Z",
+      "id": 2
+    },
+    {
+      "email": "edward",
+      "loginTime": "2022-08-14T09:30:30.743Z",
+      "id": 3
+    },
+    {
+      "email": "edward.masih@ibm.com",
+      "loginTime": "2022-08-14T09:39:18.483Z",
+      "id": 4
+    },
+    {
+      "email": "test",
+      "loginTime": "2022-08-14T09:51:24.029Z",
+      "id": 5
+    },
+    {
+      "email": "abbc@gmail.com",
+      "loginTime": "2022-08-18T15:11:49.833Z",
+      "id": 6
+    },
+    {
+      "email": "abbc@gmail.com",
+      "loginTime": "2022-08-18T15:14:12.266Z",
+      "id": 7
+    },
+    {
+      "email": "abbc@gmail.com",
+      "loginTime": "2022-08-22T09:16:03.429Z",
+      "id": 8
+    },
+    {
+      "email": "mili@abc.com",
+      "loginTime": "2022-08-25T08:04:02.343Z",
+      "id": 9
+    },
+    {
+      "email": "Alice00@gmail.com",
+      "loginTime": "2022-08-25T08:17:07.850Z",
+      "id": 10
+    },
+    {
+      "email": "Anya00@gmail.com",
+      "loginTime": "2022-08-25T08:19:37.282Z",
+      "id": 11
+    },
+    {
+      "email": "Anya00@gmail.com",
+      "loginTime": "2022-08-25T08:22:15.407Z",
+      "id": 12
+    },
+    {
+      "email": "Anya00@gmail.com",
+      "loginTime": "2022-08-25T08:28:08.948Z",
+      "id": 13
+    },
+    {
+      "email": "Anya00@gmail.com",
+      "loginTime": "2022-08-25T08:33:04.617Z",
+      "id": 14
+    }
+  ]
+}

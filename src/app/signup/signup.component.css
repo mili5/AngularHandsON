@@ -1,0 +1,36 @@
+.signup{
+    margin-top: 10px;
+    border: none;
+    width: 500px;
+    padding: 40px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    -webkit-transform: translate(-50%,-50%);
+    -moz-transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+    -o-transform: translate(-50%,-50%);
+    background: cornsilk;
+    background:  linear-gradient(to right, #8360c3, #2ebf91);
+    justify-content: center;
+    
+   }
+   .signup h3{
+       color: white;
+       font-weight: bolder;
+       text-align: center;
+       font-size: x-large;
+   }
+
+   label{
+    color: aliceblue;
+   }
+   a{
+    color: azure;
+    margin-top: 15px;
+}
+/* .btn{
+    text-align: center;
+    margin-left: 25%;
+} */
